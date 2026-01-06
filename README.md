@@ -8,3 +8,7 @@ In R:
 ```r
 shiny::runApp()
 ```
+
+## Requirements
+- R
+- shiny
