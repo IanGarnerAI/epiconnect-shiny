@@ -1,0 +1,14 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+logs/
